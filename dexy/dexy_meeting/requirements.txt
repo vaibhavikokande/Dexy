@@ -1,0 +1,47 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.1.0
+openai>=1.10.0
+tiktoken>=0.5.2
+
+# Audio processing
+whisper
+pyaudio
+pydub
+SpeechRecognition
+
+# Vector storage and embeddings
+# faiss-cpu (installed via conda)
+sentence-transformers
+
+# Web interface
+streamlit
+streamlit-webrtc
+
+# Email functionality
+email-validator
+
+# Text-to-speech
+pyttsx3
+gTTS
+
+# Wake word detection
+pvporcupine
+
+# Utilities
+python-dotenv
+pandas
+numpy
+python-dateutil
+requests
+
+# Development and testing
+pytest
+black
+flake8
+
+# Additional utilities
+plotly
+matplotlib
+seaborn
