@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Project specific
+data/
+logs/
+memory/data/
+summary/data/
+audio/recordings/
