@@ -145,6 +145,12 @@ Team to test staging server
 - 📊 Dashboard for meeting analytics
 
 - 🔐 Secure cloud deployment
+  
+## Dashboard
+<img width="1470" height="830" alt="Screenshot 2026-02-25 at 12 03 27 PM" src="https://github.com/user-attachments/assets/4c553870-e4ac-4c81-8774-2af8cab29beb" />
+
+
+
 
 
 
