@@ -60,39 +60,48 @@ This project helps teams save time, improve productivity, and maintain proper do
 DEXY-Meeting-Agent/
 │
 ├── main.py
+
 ├── transcription.py
+
 ├── summarizer.py
+
 ├── mom_generator.py
+
 ├── email_automation.py
+
 ├── requirements.txt
+
 └── README.md
 
 
 ### ⚙️ Installation & Setup
-1. 1️⃣ Clone Repository
+1. Clone Repository
 git clone https://github.com/yourusername/dexy-meeting-agent.git
 cd dexy-meeting-agent
-2. 2️⃣ Create Virtual Environment
+2. Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # For Mac/Linux
 venv\Scripts\activate      # For Windows
-3. 3️⃣ Install Dependencies
+3.  Install Dependencies
 pip install -r requirements.txt
-4. 4️⃣ Add API Keys
+4.  Add API Keys
 
 Create a .env file and add:
 
 OPENAI_API_KEY=your_api_key
 EMAIL_ID=your_email
 EMAIL_PASSWORD=your_password
-5️⃣ Run the Project
+5. Run the Project
 python main.py
-📊 Sample Output (MoM Format)
 
-Meeting Title: Weekly Project Discussion
-Date: 12 Feb 2026
+### 📊 Sample Output (MoM Format)
 
-Summary:
+#### Meeting Title:
+Weekly Project Discussion
+#### Date: 
+12 Feb 2026
+
+#### Summary:
 
 Discussed dashboard integration
 
