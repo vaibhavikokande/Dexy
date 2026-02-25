@@ -57,6 +57,7 @@ This project helps teams save time, improve productivity, and maintain proper do
 6. Email Automation
 
 ### 📂 Project Structure
+
 DEXY-Meeting-Agent/
 │
 ├── main.py
@@ -86,17 +87,17 @@ venv\Scripts\activate      # For Windows
 pip install -r requirements.txt
 4.  Add API Keys
 
-Create a .env file and add:
+   Create a .env file and add:
 
-OPENAI_API_KEY=your_api_key
+    OPENAI_API_KEY=your_api_key
 
-EMAIL_ID=your_email
+    EMAIL_ID=your_email
 
-EMAIL_PASSWORD=your_password
+    EMAIL_PASSWORD=your_password
 
 5. Run the Project
 
-python main.py
+   python main.py
 
 ### 📊 Sample Output (MoM Format)
 
