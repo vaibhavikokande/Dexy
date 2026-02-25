@@ -33,29 +33,30 @@ This project helps teams save time, improve productivity, and maintain proper do
 
 - ✅ Clean and readable meeting reports
 
-🛠️ Tech Stack
-Technology	Purpose
-Python	Core development
-NLP	Text processing & summarization
-LLMs	Context understanding & MoM generation
-Speech-to-Text API	Meeting transcription
-SMTP / Email API	Automated email delivery
-Automation Scripts	Workflow execution
-🏗️ System Architecture
+### 🛠️ Tech Stack
+- Technology	                   Purpose
+- Python	                  Core development
+- NLP	                      Text processing & summarization
+- LLMs	                    Context understanding & MoM generation
+- Speech-to-Text API	      Meeting transcription
+- SMTP / Email API	        Automated email delivery
+- Automation Scripts	      Workflow execution
 
-Meeting Audio Input
+### 🏗️ System Architecture
 
-Speech-to-Text Conversion
+1. Meeting Audio Input
 
-Text Cleaning & NLP Processing
+2. Speech-to-Text Conversion
 
-LLM-based Summarization
+3. Text Cleaning & NLP Processing
 
-MoM Generation
+4. LLM-based Summarization
 
-Email Automation
+5. MoM Generation
 
-📂 Project Structure
+6. Email Automation
+
+### 📂 Project Structure
 DEXY-Meeting-Agent/
 │
 ├── main.py
@@ -65,17 +66,19 @@ DEXY-Meeting-Agent/
 ├── email_automation.py
 ├── requirements.txt
 └── README.md
-⚙️ Installation & Setup
-1️⃣ Clone Repository
+
+
+### ⚙️ Installation & Setup
+1. 1️⃣ Clone Repository
 git clone https://github.com/yourusername/dexy-meeting-agent.git
 cd dexy-meeting-agent
-2️⃣ Create Virtual Environment
+2. 2️⃣ Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # For Mac/Linux
 venv\Scripts\activate      # For Windows
-3️⃣ Install Dependencies
+3. 3️⃣ Install Dependencies
 pip install -r requirements.txt
-4️⃣ Add API Keys
+4. 4️⃣ Add API Keys
 
 Create a .env file and add:
 
