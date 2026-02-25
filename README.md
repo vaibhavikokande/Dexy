@@ -60,6 +60,7 @@ This project helps teams save time, improve productivity, and maintain proper do
 
 DEXY-Meeting-Agent/
 │
+
 ├── main.py
 
 ├── transcription.py
@@ -97,7 +98,7 @@ pip install -r requirements.txt
 
 5. Run the Project
 
-   python main.py
+     python main.py
 
 ### 📊 Sample Output (MoM Format)
 
