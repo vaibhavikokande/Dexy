@@ -1,37 +1,37 @@
 
-## 🤖 DEXY – AI Meeting Agent
-# AI-Powered Meeting Assistant
+# 🤖 DEXY – AI Meeting Agent
+## AI-Powered Meeting Assistant
 
 DEXY is an AI-based Meeting Assistant built using Python, NLP, LLMs, and Automation.
 It automatically participates in meetings, generates transcripts, summarizes discussions, and emails the Minutes of Meeting (MoM) to participants.
 
-📌 Project Overview
+### 📌 Project Overview
 
 DEXY acts as a smart virtual meeting agent that:
 
-🎙️ Listens to live meetings
+- 🎙️ Listens to live meetings
 
-📝 Converts speech to text (Transcription)
+- 📝 Converts speech to text (Transcription)
 
-🧠 Uses Large Language Models (LLMs) to summarize discussions
+- 🧠 Uses Large Language Models (LLMs) to summarize discussions
 
-📧 Automatically sends structured Minutes of Meeting via email
+- 📧 Automatically sends structured Minutes of Meeting via email
 
 This project helps teams save time, improve productivity, and maintain proper documentation.
 
-🚀 Features
+### 🚀 Features
 
-✅ Automatic Speech-to-Text transcription
+- ✅ Automatic Speech-to-Text transcription
 
-✅ Intelligent summarization using LLM
+- ✅ Intelligent summarization using LLM
 
-✅ Action item extraction
+- ✅ Action item extraction
 
-✅ Structured Minutes of Meeting (MoM) generation
+- ✅ Structured Minutes of Meeting (MoM) generation
 
-✅ Automated email delivery to participants
+- ✅ Automated email delivery to participants
 
-✅ Clean and readable meeting reports
+- ✅ Clean and readable meeting reports
 
 🛠️ Tech Stack
 Technology	Purpose
