@@ -89,9 +89,13 @@ pip install -r requirements.txt
 Create a .env file and add:
 
 OPENAI_API_KEY=your_api_key
+
 EMAIL_ID=your_email
+
 EMAIL_PASSWORD=your_password
+
 5. Run the Project
+
 python main.py
 
 ### 📊 Sample Output (MoM Format)
@@ -107,37 +111,38 @@ Discussed dashboard integration
 
 Identified deployment blockers
 
-Action Items:
+#### Action Items:
 
 Vaibhavi to complete API integration
 
 Team to test staging server
 
-Next Meeting: 18 Feb 2026
+#### Next Meeting: 
+18 Feb 2026
 
-🎯 Use Cases
+### 🎯 Use Cases
 
-Corporate Meetings
+- Corporate Meetings
 
-Academic Project Discussions
+- Academic Project Discussions
 
-Client Calls
+- Client Calls
 
-Standup Meetings
+- Standup Meetings
 
-Remote Team Collaboration
+- Remote Team Collaboration
 
-📈 Future Enhancements
+#### 📈 Future Enhancements
 
-🌍 Multilingual Support
+- 🌍 Multilingual Support
 
-📅 Calendar Integration
+- 📅 Calendar Integration
 
-🔗 Slack / Teams Integration
+- 🔗 Slack / Teams Integration
 
-📊 Dashboard for meeting analytics
+- 📊 Dashboard for meeting analytics
 
-🔐 Secure cloud deployment
+- 🔐 Secure cloud deployment
 
-👩‍💻 Author
+
 
